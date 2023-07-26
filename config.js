@@ -49,13 +49,13 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = ' 𝑈𝑆𝛭𝛥𝛮-𝐵𝛩𝑇'
 global.premium = 'true'
-global.packname = 'MANI' 
+global.packname = ' 𝑈𝑆𝛭𝛥𝛮' 
 global.author = ' 𝑈𝑆𝛭𝛥𝛮' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.igfg = '▢ Contact Me On WhatsApps\https://api.whatsapp.com/send?phone=+9230906587229\n' 
+global.dygp = 'https://chat.whatsapp.com/BpWCHRMiiGPCyTV2Xr0kCd'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.fgyt = 'https://api.whatsapp.com/send?phone=+923090658722'
+global.fgpyp = 'https://api.whatsapp.com/send?phone=+923090658722'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
